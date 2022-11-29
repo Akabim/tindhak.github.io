@@ -1908,8 +1908,7 @@ h6 {
 }
 
 @media (max-width: 992px) {
-  .
-  bar-nav {
+  . bar-nav {
     height: auto;
     max-height: 400px;
     overflow-x: hidden;
@@ -1958,23 +1957,16 @@ h6 {
 .navbar-nav a:hover {
   text-transform: uppercase;
   font-weight: 600;
-<<<<<<< HEAD
-  color: #ffa800;
-=======
-  color: ##ffa800;
->>>>>>> 1db7fd7675143659628fd1dca4afc3b0fb6a6be8
+  color: #fff;
   padding: 20px;
   transition: all 0.5s ease-in-out;
 }
 
-<<<<<<< HEAD
 .navbar-brand:hover {
   transform: translateX(15px);
   transition: all 0.5s ease-in-out;
 }
 
-=======
->>>>>>> 1db7fd7675143659628fd1dca4afc3b0fb6a6be8
 @media (max-width: 992px) {
   .navbar-nav {
     margin-top: 10px;
